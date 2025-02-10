@@ -27,7 +27,7 @@
         <section>
             <h2>Vítejte ve světě Dungeons & Degens!</h2>
             <p>Vydejte se na epické dobrodružství, bojujte s nestvůrami a objevujte tajemné světy.</p> <!-- Made by ai--->
-            <a href="game.php" class="btn">Začít hrát</a>
+            <a href="#" class="btn">Začít hrát</a>
         </section>
     </main>
     <footer>
